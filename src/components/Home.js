@@ -67,7 +67,7 @@ const Home = () => {
             <TrustSection />
             <TestimonialsSection />
             <CTASection />
-            <CustomerReviews />
+            {/* <CustomerReviews />
             <WhyChooseSection />
             <LongReviewsSection />
             <WhyTrustUsSection />
@@ -75,7 +75,7 @@ const Home = () => {
             <FormulaSection />
             <ComparisonSection />
             <FinalOfferSection />
-            <FAQSection />
+            <FAQSection /> */}
         </div>
     );
 };
