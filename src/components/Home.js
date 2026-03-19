@@ -1,9 +1,7 @@
-import React from 'react';
 import TopBanner from './TopBanner';
 import TrustSection from './TrustSection';
 import TestimonialsSection from './TestimonialsSection';
 import CTASection from './CTASection';
-import FAQSection from './FAQSection';
 
 const Home = () => {
     return (
