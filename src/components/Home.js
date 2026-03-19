@@ -1,16 +1,8 @@
 import React from 'react';
 import TopBanner from './TopBanner';
 import TrustSection from './TrustSection';
-import WhyChooseSection from './WhyChooseSection';
 import TestimonialsSection from './TestimonialsSection';
-import CustomerReviews from './CustomerReviews';
 import CTASection from './CTASection';
-import LongReviewsSection from './LongReviewsSection';
-import WhyTrustUsSection from './WhyTrustUsSection';
-import JoinMovementSection from './JoinMovementSection';
-import FormulaSection from './FormulaSection';
-import ComparisonSection from './ComparisonSection';
-import FinalOfferSection from './FinalOfferSection';
 import FAQSection from './FAQSection';
 
 const Home = () => {
